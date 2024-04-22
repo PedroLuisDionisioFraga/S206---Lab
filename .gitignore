@@ -1,0 +1,5 @@
+# Video File
+*.mov
+
+# Node Modules
+node_modules/
