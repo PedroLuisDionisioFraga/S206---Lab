@@ -1,5 +1,9 @@
 # Video File
 *.mov
+*.mp4
 
 # Node Modules
 node_modules/
+
+# PDF Files
+*.pdf
