@@ -7,3 +7,6 @@ node_modules/
 
 # PDF Files
 *.pdf
+
+# TXT Files
+*.txt
